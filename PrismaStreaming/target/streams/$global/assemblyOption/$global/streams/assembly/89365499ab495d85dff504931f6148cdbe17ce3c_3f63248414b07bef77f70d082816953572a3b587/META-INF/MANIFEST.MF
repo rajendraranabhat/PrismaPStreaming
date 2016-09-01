@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.eed3si9n
+Implementation-Title: sbt-assembly
+Implementation-Version: 0.14.0
+Implementation-Vendor-Id: com.eed3si9n
+Specification-Vendor: com.eed3si9n
+Specification-Title: sbt-assembly
+Specification-Version: 0.14.0
+
